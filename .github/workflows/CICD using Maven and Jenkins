@@ -1,3 +1,4 @@
+name: CICD using Maven and Jenkins
 on: 
   push:
   workflow_dispatch:
